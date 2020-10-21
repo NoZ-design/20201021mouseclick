@@ -1,0 +1,10 @@
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\bin\Debug\mouseclick.exe.config
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\bin\Debug\mouseclick.exe
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\bin\Debug\mouseclick.pdb
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.csprojAssemblyReference.cache
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.Form1.resources
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.Properties.Resources.resources
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.csproj.GenerateResource.cache
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.csproj.CoreCompileInputs.cache
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.exe
+C:\Users\linyuxuan\Desktop\mouseclick\mouseclick\obj\Debug\mouseclick.pdb
